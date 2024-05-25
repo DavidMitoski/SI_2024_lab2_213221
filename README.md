@@ -57,7 +57,7 @@ Expected Output: false (сумата е 90)
 
 
 5. ## Тест случаи според Multiple Condition
-(https://github.com/DavidMitoski/SI_2024_lab2_213221/assets/165181489/edb98850-20f5-4794-92a1-be2fff01e42d)
+
 
 Тест случај 1: Цената е поголема од 300, попустот е поголем од 0, баркодот почнува со '0'
 
